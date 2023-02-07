@@ -15,7 +15,7 @@
 
         <!-- dependency versions -->
         <project.version.spring-boot>2.2.1.RELEASE</project.version.spring-boot>
-        <project.version.lombok>1.18.10</project.version.lombok>
+        <project.version.lombok>1.18.26</project.version.lombok>
     </properties>
 
     <dependencyManagement>
