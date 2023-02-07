@@ -14,7 +14,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- dependency versions -->
-        <project.version.spring-boot>2.2.1.RELEASE</project.version.spring-boot>
+        <project.version.spring-boot>3.0.2</project.version.spring-boot>
         <project.version.lombok>1.18.10</project.version.lombok>
     </properties>
 
